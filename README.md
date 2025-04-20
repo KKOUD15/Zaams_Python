@@ -4,7 +4,7 @@
 Cette troisième séance a débuté par un rappel des notions abordées lors des séances précédentes. Par la suite, nous avons été introduits aux différents jargons utilisés par les développeurs, notamment Git et GitHub.
 Nous avons également découvert les raisons pour lesquelles GitHub est largement utilisé, ainsi que les principales commandes de base nécessaires à son utilisation / Git-Github.
 
-# I- Comprendre fonctionne Git/ Github
+# I- Comprendre le fonctionnement Git/ Github
 1-GIT
 
 Git est un outil indispensable utilisé par les développeurs pour suivre les modifications apportées à leurs programmes (codes).
