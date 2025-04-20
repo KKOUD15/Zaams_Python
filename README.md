@@ -1,4 +1,5 @@
 # Zaams_Python_CR
+Dimanche 13 Avril 2025
 # Resume de la 3eme Seance
 # INTRODUCTION
 Cette troisième séance a débuté par un rappel des notions abordées lors des séances précédentes. Par la suite, nous avons été introduits aux différents jargons utilisés par les développeurs, notamment Git et GitHub.
